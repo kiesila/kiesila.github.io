@@ -5,5 +5,7 @@ h2 {
 }
 
 .left {
-    float: left;
+  float: left;
+  width: 360px;
+  margin: 20px;
 }
